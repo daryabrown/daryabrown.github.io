@@ -1,0 +1,280 @@
+{
+  "settings": {
+    "name": "One Hour One Life free",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#ab8225"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 2,
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/2-128x72.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#f8f8f6",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Troubleshooting</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://portal.ohol.club/onelife/lineageServer/server.php?action=front_page\">Family Tree</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://portal.ohol.club/onelife/reflector/server.php?action=report\">Status</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://portal.ohol.club/onelife/reflector/server.php?action=report\">Version: 182</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"magnet:?xt=urn:btih:6577b42a17de50a6b8590a80d8efa8ec1804cb10&amp;dn=OneHourOneLifeV182.zip&amp;tr=http://0d.kebhana.mx:443/announce&amp;tr=http://agusiq-torrents.pl:6969/announce&amp;tr=http://explodie.org:6969/announce&amp;tr=http://fxtt.ru:80/announce&amp;tr=http://open.acgnxtracker.com:80/announce&amp;tr=http://open.acgtracker.com:1096/announce&amp;tr=http://open.trackerlist.xyz:80/announce&amp;tr=http://opentracker.xyz:80/announce&amp;tr=http://peersteers.org:80/announce&amp;tr=http://prestige.minimafia.nl:443/announce&amp;tr=http://private.minimafia.nl:443/announce&amp;tr=http://retracker.mgts.by:80/announce&amp;tr=http://retracker.telecom.by:80/announce&amp;tr=http://share.camoe.cn:8080/announce&amp;tr=http://t.acg.rip:6699/announce&amp;tr=http://t.nyaatracker.com:80/announce&amp;tr=http://torrent.nwps.ws:80/announce&amp;tr=http://torrentclub.tech:6969/announce&amp;tr=http://tracker.city9x.com:2710/announce&amp;tr=http://tracker.corpscorp.online:80/announce&amp;tr=http://tracker.gbitt.info:80/announce&amp;tr=http://tracker.internetwarriors.net:1337/announce&amp;tr=http://tracker.openzim.org:80/announce&amp;tr=http://tracker.port443.xyz:6969/announce&amp;tr=http://tracker.tfile.co:80/announce&amp;tr=http://tracker.tfile.me:80/announce&amp;tr=http://tracker.tfile.me:80/announce.php&amp;tr=http://tracker.torrentyorg.pl:80/announce&amp;tr=http://tracker1.itzmx.com:8080/announce&amp;tr=http://tracker1.wasabii.com.tw:6969/announce&amp;tr=http://tracker2.itzmx.com:6961/announce&amp;tr=http://tracker3.itzmx.com:6961/announce&amp;tr=http://tracker4.itzmx.com:2710/announce&amp;tr=http://vps02.net.orel.ru:80/announce&amp;tr=https://1.tracker.animmouse.tk:443/announce&amp;tr=https://1337.abcvg.info:443/announce&amp;tr=https://2.tracker.animmouse.tk:443/announce&amp;tr=https://opentracker.xyz:443/announce&amp;tr=https://t.quic.ws:443/announce&amp;tr=https://tracker.fastdownload.xyz:443/announce&amp;tr=udp://9.rarbg.to:2710/announce&amp;tr=udp://bigfoot1942.sektori.org:6969/announce&amp;tr=udp://bittracker.ru:6969/announce&amp;tr=udp://bt.xxx-tracker.com:2710/announce&amp;tr=udp://chihaya.toss.li:9696/announce&amp;tr=udp://denis.stalker.upeer.me:6969/announce&amp;tr=udp://exodus.desync.com:6969/announce&amp;tr=udp://explodie.org:6969/announce&amp;tr=udp://hk1.opentracker.ga:6969/announce&amp;tr=udp://ipv4.tracker.harry.lu:80/announce&amp;tr=udp://open.demonii.si:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://packages.crunchbangplusplus.org:6969/announce&amp;tr=udp://prestige.minimafia.nl:443/announce&amp;tr=udp://pubt.in:2710/announce&amp;tr=udp://retracker.hotplug.ru:2710/announce&amp;tr=udp://retracker.lanta-net.ru:2710/announce&amp;tr=udp://retracker.netbynet.ru:2710/announce&amp;tr=udp://thetracker.org:80/announce&amp;tr=udp://torrentclub.tech:6969/announce&amp;tr=udp://tracker.birkenwald.de:6969/announce&amp;tr=udp://tracker.coppersurfer.tk:6969&amp;tr=udp://tracker.coppersurfer.tk:6969/announce&amp;tr=udp://tracker.cyberia.is:6969/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=udp://tracker.filemail.com:6969/announce&amp;tr=udp://tracker.filepit.to:6969/announce&amp;tr=udp://tracker.iamhansen.xyz:2000/announce&amp;tr=udp://tracker.internetwarriors.net:1337&amp;tr=udp://tracker.internetwarriors.net:1337/announce&amp;tr=udp://tracker.justseed.it:1337&amp;tr=udp://tracker.justseed.it:1337/announce&amp;tr=udp://tracker.kamigami.org:2710/announce&amp;tr=udp://tracker.moeking.me:6969/announce&amp;tr=udp://tracker.nyaa.uk:6969/announce&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://tracker.pirateparty.gr:6969/announce&amp;tr=udp://tracker.port443.xyz:6969/announce&amp;tr=udp://tracker.skynetcloud.tk:6969/announce&amp;tr=udp://tracker.swateam.org.uk:2710/announce&amp;tr=udp://tracker.tiny-vps.com:6969/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.vanitycore.co:6969/announce&amp;tr=udp://tracker1.itzmx.com:8080/announce&amp;tr=udp://tracker1.wasabii.com.tw:6969/announce&amp;tr=udp://tracker2.itzmx.com:6961/announce&amp;tr=udp://tracker4.itzmx.com:2710/announce&amp;tr=udp://tw.opentracker.ga:36920/announce&amp;tr=wss://tracker.btorrent.xyz:443/announce&amp;tr=wss://tracker.fastcast.nz:443/announce&amp;tr=wss://tracker.openwebtorrent.com:443/announce\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\" \">For Linux</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f8f8f6"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efefeb"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">One Hour One Life</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Play now",
+          "text": "Real struggle to survive is accessible to you now at no charge. Download client and jump in.<br>My belief is One Hour One Life should be accessible to everyone to try out. You are welcome to contribute to OHOL, get this game on steam. Join us with any up-to-date client.<br><br><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class=\"embed-container\"><iframe src=\"https://www.youtube.com/embed/jtLim2EIS4s\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\" magnet:?xt=urn:btih:6577b42a17de50a6b8590a80d8efa8ec1804cb10&amp;dn=OneHourOneLifeV182.zip&amp;tr=http://0d.kebhana.mx:443/announce&amp;tr=http://agusiq-torrents.pl:6969/announce&amp;tr=http://explodie.org:6969/announce&amp;tr=http://fxtt.ru:80/announce&amp;tr=http://open.acgnxtracker.com:80/announce&amp;tr=http://open.acgtracker.com:1096/announce&amp;tr=http://open.trackerlist.xyz:80/announce&amp;tr=http://opentracker.xyz:80/announce&amp;tr=http://peersteers.org:80/announce&amp;tr=http://prestige.minimafia.nl:443/announce&amp;tr=http://private.minimafia.nl:443/announce&amp;tr=http://retracker.mgts.by:80/announce&amp;tr=http://retracker.telecom.by:80/announce&amp;tr=http://share.camoe.cn:8080/announce&amp;tr=http://t.acg.rip:6699/announce&amp;tr=http://t.nyaatracker.com:80/announce&amp;tr=http://torrent.nwps.ws:80/announce&amp;tr=http://torrentclub.tech:6969/announce&amp;tr=http://tracker.city9x.com:2710/announce&amp;tr=http://tracker.corpscorp.online:80/announce&amp;tr=http://tracker.gbitt.info:80/announce&amp;tr=http://tracker.internetwarriors.net:1337/announce&amp;tr=http://tracker.openzim.org:80/announce&amp;tr=http://tracker.port443.xyz:6969/announce&amp;tr=http://tracker.tfile.co:80/announce&amp;tr=http://tracker.tfile.me:80/announce&amp;tr=http://tracker.tfile.me:80/announce.php&amp;tr=http://tracker.torrentyorg.pl:80/announce&amp;tr=http://tracker1.itzmx.com:8080/announce&amp;tr=http://tracker1.wasabii.com.tw:6969/announce&amp;tr=http://tracker2.itzmx.com:6961/announce&amp;tr=http://tracker3.itzmx.com:6961/announce&amp;tr=http://tracker4.itzmx.com:2710/announce&amp;tr=http://vps02.net.orel.ru:80/announce&amp;tr=https://1.tracker.animmouse.tk:443/announce&amp;tr=https://1337.abcvg.info:443/announce&amp;tr=https://2.tracker.animmouse.tk:443/announce&amp;tr=https://opentracker.xyz:443/announce&amp;tr=https://t.quic.ws:443/announce&amp;tr=https://tracker.fastdownload.xyz:443/announce&amp;tr=udp://9.rarbg.to:2710/announce&amp;tr=udp://bigfoot1942.sektori.org:6969/announce&amp;tr=udp://bittracker.ru:6969/announce&amp;tr=udp://bt.xxx-tracker.com:2710/announce&amp;tr=udp://chihaya.toss.li:9696/announce&amp;tr=udp://denis.stalker.upeer.me:6969/announce&amp;tr=udp://exodus.desync.com:6969/announce&amp;tr=udp://explodie.org:6969/announce&amp;tr=udp://hk1.opentracker.ga:6969/announce&amp;tr=udp://ipv4.tracker.harry.lu:80/announce&amp;tr=udp://open.demonii.si:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://packages.crunchbangplusplus.org:6969/announce&amp;tr=udp://prestige.minimafia.nl:443/announce&amp;tr=udp://pubt.in:2710/announce&amp;tr=udp://retracker.hotplug.ru:2710/announce&amp;tr=udp://retracker.lanta-net.ru:2710/announce&amp;tr=udp://retracker.netbynet.ru:2710/announce&amp;tr=udp://thetracker.org:80/announce&amp;tr=udp://torrentclub.tech:6969/announce&amp;tr=udp://tracker.birkenwald.de:6969/announce&amp;tr=udp://tracker.coppersurfer.tk:6969&amp;tr=udp://tracker.coppersurfer.tk:6969/announce&amp;tr=udp://tracker.cyberia.is:6969/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=udp://tracker.filemail.com:6969/announce&amp;tr=udp://tracker.filepit.to:6969/announce&amp;tr=udp://tracker.iamhansen.xyz:2000/announce&amp;tr=udp://tracker.internetwarriors.net:1337&amp;tr=udp://tracker.internetwarriors.net:1337/announce&amp;tr=udp://tracker.justseed.it:1337&amp;tr=udp://tracker.justseed.it:1337/announce&amp;tr=udp://tracker.kamigami.org:2710/announce&amp;tr=udp://tracker.moeking.me:6969/announce&amp;tr=udp://tracker.nyaa.uk:6969/announce&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://tracker.pirateparty.gr:6969/announce&amp;tr=udp://tracker.port443.xyz:6969/announce&amp;tr=udp://tracker.skynetcloud.tk:6969/announce&amp;tr=udp://tracker.swateam.org.uk:2710/announce&amp;tr=udp://tracker.tiny-vps.com:6969/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.vanitycore.co:6969/announce&amp;tr=udp://tracker1.itzmx.com:8080/announce&amp;tr=udp://tracker1.wasabii.com.tw:6969/announce&amp;tr=udp://tracker2.itzmx.com:6961/announce&amp;tr=udp://tracker4.itzmx.com:2710/announce&amp;tr=udp://tw.opentracker.ga:36920/announce&amp;tr=wss://tracker.btorrent.xyz:443/announce&amp;tr=wss://tracker.fastcast.nz:443/announce&amp;tr=wss://tracker.openwebtorrent.com:443/announce\" data-toolbar=\"-mbrBtnMove\">Play Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\" \" data-toolbar=\"-mbrBtnMove\">Buy a copy</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-4"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Free",
+          "caption1": "No strings attached. You are able to jump right in.&nbsp;",
+          "title2": "Anonymous",
+          "caption2": "No registration, no key needed, no real email necessary. Use any.",
+          "title3": "Fun",
+          "caption3": "Constant fight on the edge of death and life. Like in real life for some. Join in. Family awaits.",
+          "title4": "Low system requirements",
+          "caption4": "Works on potato PC's",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-6"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Troubleshooting",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#f8f8f6",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Troubleshooting</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://portal.ohol.club/onelife/lineageServer/server.php?action=front_page\">Family Tree</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://portal.ohol.club/onelife/reflector/server.php?action=report\">Status</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://portal.ohol.club/onelife/reflector/server.php?action=report\">Version: 182</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"magnet:?xt=urn:btih:6577b42a17de50a6b8590a80d8efa8ec1804cb10&amp;dn=OneHourOneLifeV182.zip&amp;tr=http://0d.kebhana.mx:443/announce&amp;tr=http://agusiq-torrents.pl:6969/announce&amp;tr=http://explodie.org:6969/announce&amp;tr=http://fxtt.ru:80/announce&amp;tr=http://open.acgnxtracker.com:80/announce&amp;tr=http://open.acgtracker.com:1096/announce&amp;tr=http://open.trackerlist.xyz:80/announce&amp;tr=http://opentracker.xyz:80/announce&amp;tr=http://peersteers.org:80/announce&amp;tr=http://prestige.minimafia.nl:443/announce&amp;tr=http://private.minimafia.nl:443/announce&amp;tr=http://retracker.mgts.by:80/announce&amp;tr=http://retracker.telecom.by:80/announce&amp;tr=http://share.camoe.cn:8080/announce&amp;tr=http://t.acg.rip:6699/announce&amp;tr=http://t.nyaatracker.com:80/announce&amp;tr=http://torrent.nwps.ws:80/announce&amp;tr=http://torrentclub.tech:6969/announce&amp;tr=http://tracker.city9x.com:2710/announce&amp;tr=http://tracker.corpscorp.online:80/announce&amp;tr=http://tracker.gbitt.info:80/announce&amp;tr=http://tracker.internetwarriors.net:1337/announce&amp;tr=http://tracker.openzim.org:80/announce&amp;tr=http://tracker.port443.xyz:6969/announce&amp;tr=http://tracker.tfile.co:80/announce&amp;tr=http://tracker.tfile.me:80/announce&amp;tr=http://tracker.tfile.me:80/announce.php&amp;tr=http://tracker.torrentyorg.pl:80/announce&amp;tr=http://tracker1.itzmx.com:8080/announce&amp;tr=http://tracker1.wasabii.com.tw:6969/announce&amp;tr=http://tracker2.itzmx.com:6961/announce&amp;tr=http://tracker3.itzmx.com:6961/announce&amp;tr=http://tracker4.itzmx.com:2710/announce&amp;tr=http://vps02.net.orel.ru:80/announce&amp;tr=https://1.tracker.animmouse.tk:443/announce&amp;tr=https://1337.abcvg.info:443/announce&amp;tr=https://2.tracker.animmouse.tk:443/announce&amp;tr=https://opentracker.xyz:443/announce&amp;tr=https://t.quic.ws:443/announce&amp;tr=https://tracker.fastdownload.xyz:443/announce&amp;tr=udp://9.rarbg.to:2710/announce&amp;tr=udp://bigfoot1942.sektori.org:6969/announce&amp;tr=udp://bittracker.ru:6969/announce&amp;tr=udp://bt.xxx-tracker.com:2710/announce&amp;tr=udp://chihaya.toss.li:9696/announce&amp;tr=udp://denis.stalker.upeer.me:6969/announce&amp;tr=udp://exodus.desync.com:6969/announce&amp;tr=udp://explodie.org:6969/announce&amp;tr=udp://hk1.opentracker.ga:6969/announce&amp;tr=udp://ipv4.tracker.harry.lu:80/announce&amp;tr=udp://open.demonii.si:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://packages.crunchbangplusplus.org:6969/announce&amp;tr=udp://prestige.minimafia.nl:443/announce&amp;tr=udp://pubt.in:2710/announce&amp;tr=udp://retracker.hotplug.ru:2710/announce&amp;tr=udp://retracker.lanta-net.ru:2710/announce&amp;tr=udp://retracker.netbynet.ru:2710/announce&amp;tr=udp://thetracker.org:80/announce&amp;tr=udp://torrentclub.tech:6969/announce&amp;tr=udp://tracker.birkenwald.de:6969/announce&amp;tr=udp://tracker.coppersurfer.tk:6969&amp;tr=udp://tracker.coppersurfer.tk:6969/announce&amp;tr=udp://tracker.cyberia.is:6969/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=udp://tracker.filemail.com:6969/announce&amp;tr=udp://tracker.filepit.to:6969/announce&amp;tr=udp://tracker.iamhansen.xyz:2000/announce&amp;tr=udp://tracker.internetwarriors.net:1337&amp;tr=udp://tracker.internetwarriors.net:1337/announce&amp;tr=udp://tracker.justseed.it:1337&amp;tr=udp://tracker.justseed.it:1337/announce&amp;tr=udp://tracker.kamigami.org:2710/announce&amp;tr=udp://tracker.moeking.me:6969/announce&amp;tr=udp://tracker.nyaa.uk:6969/announce&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://tracker.pirateparty.gr:6969/announce&amp;tr=udp://tracker.port443.xyz:6969/announce&amp;tr=udp://tracker.skynetcloud.tk:6969/announce&amp;tr=udp://tracker.swateam.org.uk:2710/announce&amp;tr=udp://tracker.tiny-vps.com:6969/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.vanitycore.co:6969/announce&amp;tr=udp://tracker1.itzmx.com:8080/announce&amp;tr=udp://tracker1.wasabii.com.tw:6969/announce&amp;tr=udp://tracker2.itzmx.com:6961/announce&amp;tr=udp://tracker4.itzmx.com:2710/announce&amp;tr=udp://tw.opentracker.ga:36920/announce&amp;tr=wss://tracker.btorrent.xyz:443/announce&amp;tr=wss://tracker.fastcast.nz:443/announce&amp;tr=wss://tracker.openwebtorrent.com:443/announce\">For Windows</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\" \">For Linux</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f8f8f6"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#efefeb"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">One Hour One Life</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-3"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Play now",
+          "text": "Real struggle to survive is accessible to you now at no charge. Download client and jump in.<br>My belief is One Hour One Life should be accessible to everyone to try out. You are welcome to contribute to OHOL, get this game on steam. Join us with any up-to-date client.<br><br><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jtLim2EIS4s\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\" magnet:?xt=urn:btih:6577b42a17de50a6b8590a80d8efa8ec1804cb10&amp;dn=OneHourOneLifeV182.zip&amp;tr=http://0d.kebhana.mx:443/announce&amp;tr=http://agusiq-torrents.pl:6969/announce&amp;tr=http://explodie.org:6969/announce&amp;tr=http://fxtt.ru:80/announce&amp;tr=http://open.acgnxtracker.com:80/announce&amp;tr=http://open.acgtracker.com:1096/announce&amp;tr=http://open.trackerlist.xyz:80/announce&amp;tr=http://opentracker.xyz:80/announce&amp;tr=http://peersteers.org:80/announce&amp;tr=http://prestige.minimafia.nl:443/announce&amp;tr=http://private.minimafia.nl:443/announce&amp;tr=http://retracker.mgts.by:80/announce&amp;tr=http://retracker.telecom.by:80/announce&amp;tr=http://share.camoe.cn:8080/announce&amp;tr=http://t.acg.rip:6699/announce&amp;tr=http://t.nyaatracker.com:80/announce&amp;tr=http://torrent.nwps.ws:80/announce&amp;tr=http://torrentclub.tech:6969/announce&amp;tr=http://tracker.city9x.com:2710/announce&amp;tr=http://tracker.corpscorp.online:80/announce&amp;tr=http://tracker.gbitt.info:80/announce&amp;tr=http://tracker.internetwarriors.net:1337/announce&amp;tr=http://tracker.openzim.org:80/announce&amp;tr=http://tracker.port443.xyz:6969/announce&amp;tr=http://tracker.tfile.co:80/announce&amp;tr=http://tracker.tfile.me:80/announce&amp;tr=http://tracker.tfile.me:80/announce.php&amp;tr=http://tracker.torrentyorg.pl:80/announce&amp;tr=http://tracker1.itzmx.com:8080/announce&amp;tr=http://tracker1.wasabii.com.tw:6969/announce&amp;tr=http://tracker2.itzmx.com:6961/announce&amp;tr=http://tracker3.itzmx.com:6961/announce&amp;tr=http://tracker4.itzmx.com:2710/announce&amp;tr=http://vps02.net.orel.ru:80/announce&amp;tr=https://1.tracker.animmouse.tk:443/announce&amp;tr=https://1337.abcvg.info:443/announce&amp;tr=https://2.tracker.animmouse.tk:443/announce&amp;tr=https://opentracker.xyz:443/announce&amp;tr=https://t.quic.ws:443/announce&amp;tr=https://tracker.fastdownload.xyz:443/announce&amp;tr=udp://9.rarbg.to:2710/announce&amp;tr=udp://bigfoot1942.sektori.org:6969/announce&amp;tr=udp://bittracker.ru:6969/announce&amp;tr=udp://bt.xxx-tracker.com:2710/announce&amp;tr=udp://chihaya.toss.li:9696/announce&amp;tr=udp://denis.stalker.upeer.me:6969/announce&amp;tr=udp://exodus.desync.com:6969/announce&amp;tr=udp://explodie.org:6969/announce&amp;tr=udp://hk1.opentracker.ga:6969/announce&amp;tr=udp://ipv4.tracker.harry.lu:80/announce&amp;tr=udp://open.demonii.si:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://packages.crunchbangplusplus.org:6969/announce&amp;tr=udp://prestige.minimafia.nl:443/announce&amp;tr=udp://pubt.in:2710/announce&amp;tr=udp://retracker.hotplug.ru:2710/announce&amp;tr=udp://retracker.lanta-net.ru:2710/announce&amp;tr=udp://retracker.netbynet.ru:2710/announce&amp;tr=udp://thetracker.org:80/announce&amp;tr=udp://torrentclub.tech:6969/announce&amp;tr=udp://tracker.birkenwald.de:6969/announce&amp;tr=udp://tracker.coppersurfer.tk:6969&amp;tr=udp://tracker.coppersurfer.tk:6969/announce&amp;tr=udp://tracker.cyberia.is:6969/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=udp://tracker.filemail.com:6969/announce&amp;tr=udp://tracker.filepit.to:6969/announce&amp;tr=udp://tracker.iamhansen.xyz:2000/announce&amp;tr=udp://tracker.internetwarriors.net:1337&amp;tr=udp://tracker.internetwarriors.net:1337/announce&amp;tr=udp://tracker.justseed.it:1337&amp;tr=udp://tracker.justseed.it:1337/announce&amp;tr=udp://tracker.kamigami.org:2710/announce&amp;tr=udp://tracker.moeking.me:6969/announce&amp;tr=udp://tracker.nyaa.uk:6969/announce&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://tracker.pirateparty.gr:6969/announce&amp;tr=udp://tracker.port443.xyz:6969/announce&amp;tr=udp://tracker.skynetcloud.tk:6969/announce&amp;tr=udp://tracker.swateam.org.uk:2710/announce&amp;tr=udp://tracker.tiny-vps.com:6969/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.vanitycore.co:6969/announce&amp;tr=udp://tracker1.itzmx.com:8080/announce&amp;tr=udp://tracker1.wasabii.com.tw:6969/announce&amp;tr=udp://tracker2.itzmx.com:6961/announce&amp;tr=udp://tracker4.itzmx.com:2710/announce&amp;tr=udp://tw.opentracker.ga:36920/announce&amp;tr=wss://tracker.btorrent.xyz:443/announce&amp;tr=wss://tracker.fastcast.nz:443/announce&amp;tr=wss://tracker.openwebtorrent.com:443/announce\" data-toolbar=\"-mbrBtnMove\">Play Free</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\" \" data-toolbar=\"-mbrBtnMove\">Buy a copy</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-4"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Free",
+          "caption1": "No strings attached. You are able to jump right in.&nbsp;",
+          "title2": "Anonymous",
+          "caption2": "No registration, no key needed, no real email necessary. Use any.",
+          "title3": "Fun",
+          "caption3": "Constant fight on the edge of death and life. Like in real life for some. Join in. Family awaits.",
+          "title4": "Low system requirements",
+          "caption4": "Works on potato PC's",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-5"
+        }
+      ]
+    }
+  }
+}
